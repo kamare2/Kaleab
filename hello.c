@@ -9,8 +9,8 @@
 #include<stdio.h>
 
 int main(int argc, char **argv) {
-
-  printf("Kaleab Mengistu");
+// I wanna sleep so bad...
+  printf("Kaleab Mengistu"); // Hello
 
   return 0;
 }
